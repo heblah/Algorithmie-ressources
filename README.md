@@ -1,4 +1,5 @@
-Cours de maths, utile pour les calculs matriciels  
+Cours de maths, utile pour les calculs matriciels, et les notions d'applications 
+
 Ressources d'algorithmie - essentiellement en Caml  
 Ressources d'algorithmie en Python ou Caml : https://math-python-latex-et.monsite-orange.fr/
 
