@@ -2,7 +2,7 @@ Cours de maths, utile pour les calculs matriciels et les notions d'applications
 
 Ressources d'algorithmie - essentiellement en Caml :  
  - Arbres binaires  
- - Compléxités  
+ - Compléxité  
  - Compression d'images bitmap  
  - Cryptographie RSA  
  - Éléments d'arithmétique pour la cryptographie  
