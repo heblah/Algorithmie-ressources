@@ -16,7 +16,7 @@ Ressources d'algorithmie - essentiellement en Caml :
 
 Ressources d'algorithmie en Python ou Caml : 
  - https://math-python-latex-et.monsite-orange.fr/
-   - Cordic  
+   - Algorithme CORDIC  
    - Calcul de constantes et fonctions usuelles avec xx décimales
    - LaTeX - compilateur, python...
    - Latex - compilation LaTeX -> html  
