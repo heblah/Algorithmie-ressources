@@ -27,4 +27,5 @@ Ressources d'algorithmie en Python ou Caml (français / english) :
    - Logique
    - Mathématiques
    - A propos
+     
 L'ensemble du contenu a été rédigé par Antoine Moteau et est diffusé avec son acccord.
