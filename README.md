@@ -14,15 +14,17 @@ Ressources d'algorithmie - essentiellement en Caml :
  - Tas et files de priorités  
  - Validité d'une formule logique par les arbres de Beth  
 
-Ressources d'algorithmie en Python ou Caml : 
- - https://math-python-latex-et.monsite-orange.fr/
-   - Algorithme CORDIC  
-   - Calcul de constantes et fonctions usuelles avec xx décimales
-   - LaTeX - compilateur, python...
-   - Latex - compilation LaTeX -> html  
-   - Pivot de Gauss (calcul matriciel)
-   - Éléments d'algorithmie  
-   - Logique - Éléments de calcul propositionel  
-   - Polynomes  
-
+Ressources d'algorithmie en Python ou Caml (français / english) : 
+ - https://www.mcpl.math-cordic-python-latex.net
+   - Acceuil
+   - Cordic
+   - Python xx décimales
+   - Python
+   - LaTeX
+   - LaTeX to html
+   - Pivot de Gauss
+   - Algorithmes
+   - Logique
+   - Mathématiques
+   - A propos
 L'ensemble du contenu a été rédigé par Antoine Moteau et est diffusé avec son acccord.
